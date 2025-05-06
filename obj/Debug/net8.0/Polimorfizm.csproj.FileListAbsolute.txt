@@ -1,0 +1,14 @@
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/bin/Debug/net8.0/Polimorfizm
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/bin/Debug/net8.0/Polimorfizm.deps.json
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/bin/Debug/net8.0/Polimorfizm.runtimeconfig.json
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/bin/Debug/net8.0/Polimorfizm.dll
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/bin/Debug/net8.0/Polimorfizm.pdb
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/Polimorfizm.AssemblyInfoInputs.cache
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/Polimorfizm.AssemblyInfo.cs
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/Polimorfizm.csproj.CoreCompileInputs.cache
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/Polimorfizm.dll
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/refint/Polimorfizm.dll
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/Polimorfizm.pdb
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/Polimorfizm.genruntimeconfig.cache
+/Users/melihtakyaci/Documents/Polimorfizm/Polimorfizm/obj/Debug/net8.0/ref/Polimorfizm.dll
